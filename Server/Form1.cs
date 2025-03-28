@@ -10,6 +10,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Dapper;
@@ -34,7 +35,7 @@ namespace Server
         {
             try
             {
-                
+
 
                 server = new TcpListener(IPAddress.Parse(IPField.Text), int.Parse(PortField.Text));
                 server.Start(10);
@@ -45,7 +46,7 @@ namespace Server
 
                     TcpClient acceptor = server.AcceptTcpClient();
                     NetworkStream ns = acceptor.GetStream();
-                    
+
 
                     clientMessage = (MyRequest)bf1.Deserialize(ns);
 
@@ -53,29 +54,66 @@ namespace Server
                     {
                         using (var db = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=Users"))
                         {
-                            
+
                             var response = db.QueryFirstOrDefault<Users>($"Select * from Users where loginU=={clientMessage.login} and PasswordU == {clientMessage.password}");
                             serverMessage.type = "login-result";
                             serverMessage.message = $"success: {response.ToString()}";
-                            
+
 
                         }
                     }
+                    else
+                    {
+                        if (clientMessage.type == "GetChat")
+                        {
+                            using (var db = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=Users"))
+                            {
+
+                                var response = db.QueryFirstOrDefault($"select MessagesU from Chat where User1Id = (Select Id from USers where UserName = {clientMessage.login}) or User2Id = (Select Id from USers where UserName = {clientMessage.login}) ");
+                                serverMessage.type = "Chat-response";
+                                serverMessage.message = response.ToString();
+                                bf1.Serialize(ns, serverMessage);
+
+
+                            }
+
+                        }
+                        else
+                        {
+                            if (clientMessage.type == "SendMessage")
+                            {
+                                using (var db = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=Users"))
+                                {
+                                    var response1 = db.QueryFirstOrDefault($"select MessagesU from Chat where User1Id = (Select Id from USers where UserName = {clientMessage.login}) or User2Id = (Select Id from USers where UserName = {clientMessage.login}) ");
+                                    var response = db.QueryFirstOrDefault($"Update Chat set MesagesU = {response1.ToString() + clientMessage.message}  where User1Id = (Select Id from USers where UserName = {clientMessage.login}) or User2Id = (Select Id from USers where UserName = {clientMessage.login}) ");
+                                    serverMessage.type = "Chat-response";
+                                    serverMessage.message = response.ToString();
+                                    bf1.Serialize(ns, serverMessage);
+
+
+                                }
+
+
+                            }
+                        }
 
 
 
-                    bf1.Serialize(ns,serverMessage);
-                  
-                    
-                    
-                    ns.Close();
-                    acceptor.Close();
 
-                    
 
+                        bf1.Serialize(ns, serverMessage);
+
+
+
+                        ns.Close();
+                        acceptor.Close();
+
+
+
+
+                    }
 
                 }
-
             }
             catch (SocketException sockEx)
             {
@@ -98,7 +136,15 @@ namespace Server
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            try
+            {
+                Server();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Помилка запуску серверного потоку", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+
         }
     }
 }

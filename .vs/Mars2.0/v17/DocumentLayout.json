@@ -1,25 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mars2\\Mars1\\",
+  "WorkspaceRootPath": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|D:\\Mars2\\Mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|c:\\users\\ryabi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mars1\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|c:\\users\\ryabi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mars1\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC8126C-1E1D-4B4B-9768-2983438A07B8}|Admin\\Admin.csproj|c:\\users\\ryabi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mars1\\admin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC8126C-1E1D-4B4B-9768-2983438A07B8}|Admin\\Admin.csproj|solutionrelative:admin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC8126C-1E1D-4B4B-9768-2983438A07B8}|Admin\\Admin.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\admin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC8126C-1E1D-4B4B-9768-2983438A07B8}|Admin\\Admin.csproj|solutionrelative:admin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|D:\\Mars2\\Mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|d:\\mars2\\mars1\\modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|D:\\Mars2\\Mars1\\modelslibrary\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\modelslibrary\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|D:\\Mars2\\Mars1\\modelslibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\modelslibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +46,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:19:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:18:58.727Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Admin\\Form1.cs",
+              "RelativeDocumentMoniker": "Admin\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Admin\\Form1.cs",
+              "RelativeToolTip": "Admin\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:55:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Admin\\Form1.cs",
+              "RelativeDocumentMoniker": "Admin\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Admin\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Admin\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:55:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Users.cs",
-              "DocumentMoniker": "D:\\Mars2\\Mars1\\ModelsLibrary\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\Users.cs",
               "RelativeDocumentMoniker": "ModelsLibrary\\Users.cs",
-              "ToolTip": "D:\\Mars2\\Mars1\\ModelsLibrary\\Users.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\Users.cs",
               "RelativeToolTip": "ModelsLibrary\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -46,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Chat.cs",
-              "DocumentMoniker": "D:\\Mars2\\Mars1\\ModelsLibrary\\Chat.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\Chat.cs",
               "RelativeDocumentMoniker": "ModelsLibrary\\Chat.cs",
-              "ToolTip": "D:\\Mars2\\Mars1\\ModelsLibrary\\Chat.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\Chat.cs",
               "RelativeToolTip": "ModelsLibrary\\Chat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,41 +123,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Server\\Form1.cs",
               "RelativeToolTip": "Server\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvzEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:12:54.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:12:54.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
               "ToolTip": "D:\\Mars2\\Mars1\\Server\\Form1.cs [Design]",
-              "RelativeToolTip": "Server\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T17:13:15.165Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-23T17:13:15.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MyRequest.cs",
-              "DocumentMoniker": "D:\\Mars2\\Mars1\\ModelsLibrary\\MyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\MyRequest.cs",
               "RelativeDocumentMoniker": "ModelsLibrary\\MyRequest.cs",
-              "ToolTip": "D:\\Mars2\\Mars1\\ModelsLibrary\\MyRequest.cs",
+              "ToolTip": "C:\\Users\\ryabi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Mars1\\ModelsLibrary\\MyRequest.cs",
               "RelativeToolTip": "ModelsLibrary\\MyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:24:19.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T16:24:19.779Z"
             }
           ]
         }
