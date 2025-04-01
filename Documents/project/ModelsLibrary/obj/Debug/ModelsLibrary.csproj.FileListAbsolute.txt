@@ -1,0 +1,6 @@
+D:\Mars2\Mars1\ModelsLibrary\bin\Debug\ModelsLibrary.dll
+D:\Mars2\Mars1\ModelsLibrary\bin\Debug\ModelsLibrary.pdb
+D:\Mars2\Mars1\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.AssemblyReference.cache
+D:\Mars2\Mars1\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Mars2\Mars1\ModelsLibrary\obj\Debug\ModelsLibrary.dll
+D:\Mars2\Mars1\ModelsLibrary\obj\Debug\ModelsLibrary.pdb

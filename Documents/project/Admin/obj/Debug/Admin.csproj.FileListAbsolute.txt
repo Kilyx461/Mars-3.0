@@ -1,0 +1,26 @@
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\bin\Debug\Admin.exe.config
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\bin\Debug\Admin.exe
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\bin\Debug\Admin.pdb
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\bin\Debug\ModelsLibrary.dll
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\bin\Debug\ModelsLibrary.pdb
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.csproj.Up2Date
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.exe
+C:\Users\ryabi\OneDrive\Рабочий стол\Mars1\Admin\obj\Debug\Admin.pdb
+D:\Mars2\Mars1\Admin\bin\Debug\Admin.exe.config
+D:\Mars2\Mars1\Admin\bin\Debug\Admin.exe
+D:\Mars2\Mars1\Admin\bin\Debug\Admin.pdb
+D:\Mars2\Mars1\Admin\bin\Debug\ModelsLibrary.dll
+D:\Mars2\Mars1\Admin\bin\Debug\ModelsLibrary.pdb
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.Form1.resources
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.Properties.Resources.resources
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.csproj.Up2Date
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.exe
+D:\Mars2\Mars1\Admin\obj\Debug\Admin.pdb
